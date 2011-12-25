@@ -1,0 +1,15 @@
+body {
+    margin: 0 16%;
+    padding: 0 4%;
+    width: 60%;
+    height: 444px;
+}
+
+h1 {
+    text-align: center;
+    color: green;
+}
+
+p#copyright {
+    color: #888888;
+}
