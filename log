@@ -1,0 +1,543 @@
+commit 75e3a55035c715fd91d3a8d665411fc16d4d675c
+Author: arethusa <--set-all>
+Date:   Mon Jan 2 22:34:43 2012 +0800
+
+    b00902032
+
+commit 09d47c531f0f72182b1cacae93733352597c2242
+Author: ms0472904 <ms0472904@hotmail.com>
+Date:   Mon Jan 2 22:00:05 2012 +0800
+
+    add b00902102
+
+commit eb2eda504ac40a3ae363e78bb9929b8c1389f1e9
+Merge: f21e154 1bd9299
+Author: Circle Kao <kao1s881220@gmail.com>
+Date:   Mon Jan 2 20:49:26 2012 +0800
+
+    Merge github.com:dm4/IntroCS-2011-Fall-Homework6
+
+commit f21e154589e4779dca782c5cc1f0fbc75b8eab8a
+Author: Circle Kao <kao1s881220@gmail.com>
+Date:   Mon Jan 2 20:41:28 2012 +0800
+
+    first commit
+
+commit e55bdaba9ae04cb6116f5bd20f6ccee8fbe69388
+Author: Circle Kao <kao1s881220@gmail.com>
+Date:   Mon Jan 2 20:36:42 2012 +0800
+
+    b00902018/Circle/KaoCircle
+
+commit 1bd9299bff23ec4d31c0007a40081082987f6252
+Merge: d2beb11 6d4ce9c
+Author: Chris Lopez <chydals@gmail.com>
+Date:   Mon Jan 2 20:35:32 2012 +0800
+
+    Merge branch 'master' of github.com:dm4/IntroCS-2011-Fall-Homework6
+
+commit d2beb11995dfc4d525fd54a88e7f7f38287ce95b
+Author: Chris Lopez <chydals@gmail.com>
+Date:   Mon Jan 2 20:34:03 2012 +0800
+
+    b98902121/Chris/chydals
+
+commit 6d4ce9cee0b68e048eab66ec1e41b23ff69ada7a
+Author: wendychen <lfwendy@gmail.com>
+Date:   Mon Jan 2 20:28:01 2012 +0800
+
+    	b00303053/Chen Wan-Yen/wendychen
+
+commit d0aeca766dfd4c83a7bd9635ffae25de89dc5d02
+Merge: 5db12eb 23aaff7
+Author: yafang <drsposh@ubuntu.ubuntu-domain>
+Date:   Mon Jan 2 20:18:43 2012 +0800
+
+    Merge branch 'master' of github.com:dm4/IntroCS-2011-Fall-Homework6
+
+commit 23aaff7bc6d89d0974548d3d165deb8f9c35013a
+Author: weichen1027 <weichen1027@gmail.com>
+Date:   Mon Jan 2 20:16:48 2012 +0800
+
+    b00902124
+
+commit 5db12ebecce33641bcd80bc2ae517a7c14d33337
+Author: yafang <drsposh@ubuntu.ubuntu-domain>
+Date:   Mon Jan 2 20:16:27 2012 +0800
+
+    b00902068
+
+commit 80297ab67d95d29b511e6181e5e188f7802fa463
+Merge: c4fe655 b664f24
+Author: Pai Huei Ting <aic8382@gmail.com>
+Date:   Mon Jan 2 20:14:04 2012 +0800
+
+    Merge branch 'master' of github.com:dm4/IntroCS-2011-Fall-Homework6
+
+commit c4fe655adf78cfe0cf930893d86a6862f381876d
+Author: Pai Huei Ting <aic8382@gmail.com>
+Date:   Mon Jan 2 20:12:19 2012 +0800
+
+    b00902094
+
+commit b664f246b965880e156055449f4ec6bf989d9e8a
+Merge: a557369 6e9ca6f
+Author: Chris Lopez <chydals@gmail.com>
+Date:   Mon Jan 2 20:11:30 2012 +0800
+
+    Merge branch 'master' of github.com:dm4/IntroCS-2011-Fall-Homework6
+
+commit 6e9ca6f3fa8b0fe05fad1f91d69868ea0a8e353a
+Merge: 3ea750a 61aa401
+Author: dm4 <sunrisedm4@gmail.com>
+Date:   Mon Jan 2 20:03:25 2012 +0800
+
+    Merge branch 'master' of github.com:dm4/IntroCS-2011-Fall-Homework6
+
+commit a557369636d46eb90a1e17a0239fa2416c66979f
+Author: Chris Lopez <chydals@gmail.com>
+Date:   Mon Jan 2 20:02:15 2012 +0800
+
+    b98902121/Chris Lopez/chydals
+
+commit 61aa4012e635372c206da010c133bce6b3ef85e5
+Merge: 2273ab9 5222ea5
+Author: Danica Elechang <tintom4525@gmail.com>
+Date:   Mon Jan 2 19:59:01 2012 +0800
+
+    Merge branch 'master' of github.com:dm4/IntroCS-2011-Fall-Homework6
+
+commit 2273ab9e0b9d98c20d7e20478be6747ea5cf9e75
+Author: Danica Elechang <tintom4525@gmail.com>
+Date:   Mon Jan 2 19:56:07 2012 +0800
+
+    Danica
+
+commit 5222ea5b1b0b52189b5259029e803ed0d8c46600
+Author: s455176 <s455176@yahoo.com.tw>
+Date:   Mon Jan 2 19:50:43 2012 +0800
+
+    b00902028 Tu Jeng-Hao s455176
+
+commit d1fc0e22b624e68e97bb546ed3ca2b24f99e02d0
+Author: unknown <b00902012@pclab12.pclab.csie.ntu.edu.tw>
+Date:   Mon Jan 2 19:17:49 2012 +0800
+
+    b00902012
+
+commit 3ea750a3b41e7f8cbbbe71e2727e1800eeb858f6
+Author: b00902058 <g22gs@yahoo.com.tw>
+Date:   Mon Jan 2 14:10:26 2012 +0800
+
+    b00902058 g22gs
+
+commit e7465fdbd309e8b8f3aeb66707a137fbd773da5b
+Merge: ba499ec d1bb3b9
+Author: unknown <b00902114@pclab67.pclab.csie.ntu.edu.tw>
+Date:   Mon Jan 2 12:57:43 2012 +0800
+
+    Merge branch 'master' of github.com:dm4/IntroCS-2011-Fall-Homework6
+
+commit ba499ec92f291a28cd2876e058e28e100fdc2455
+Author: unknown <b00902114@pclab67.pclab.csie.ntu.edu.tw>
+Date:   Mon Jan 2 12:43:15 2012 +0800
+
+    first commit
+
+commit d1bb3b93b00762423de8d1c320b13ee05ea12614
+Merge: e81454c 433c9c3
+Author: kenha <kenshins1234567890@yahoo.com>
+Date:   Mon Jan 2 12:08:12 2012 +0800
+
+    Merge branch 'master' of github.com:dm4/IntroCS-2011-Fall-Homework6
+
+commit 433c9c3d6b5532c820ee2748bf9798bcf0ac2575
+Author: b00902026 <b00902026@ntu.edu.tw>
+Date:   Mon Jan 2 11:40:12 2012 +0800
+
+    b00902026/b00902026/b00902026
+
+commit 3cdd4216db88fa3154d0217521e2747a5c212fb2
+Author: b00902026 <b00902026@ntu.edu.tw>
+Date:   Mon Jan 2 11:36:59 2012 +0800
+
+    Hi
+
+commit e81454c61d8db74adeeb56e616f916e9a66e6fc9
+Merge: 9bbbd95 b76cc4b
+Author: kenha <kenshins1234567890@yahoo.com>
+Date:   Mon Jan 2 11:12:22 2012 +0800
+
+    Merge branch 'master' of github.com:dm4/IntroCS-2011-Fall-Homework6
+
+commit 9bbbd954316d15f5860d79395501d598e8194126
+Author: kenha <kenshins1234567890@yahoo.com>
+Date:   Mon Jan 2 11:10:43 2012 +0800
+
+    b99902116 KenHa kenha
+
+commit b76cc4b70e20d9bb86f6d4240454b463b39e4543
+Author: chemadent <chemadent@gmail.com>
+Date:   Sun Jan 1 23:39:05 2012 +0800
+
+    B00902002/³¯«ØºÕ/chemadent
+    
+    EXCELLENT!WONDERFUL!GREAT!NICE!GOOD!
+
+commit ef625a7d13b66665491c277e1694d613b497128f
+Author: HEK1337 <HEK1337@gmail.com>
+Date:   Sun Jan 1 19:47:51 2012 +0800
+
+    b00902016/HEK1337/HEK1337
+
+commit 88294b3d337cd75ecd086701d7c05a2a5bc3a186
+Author: HEK1337 <HEK1337@gmail.com>
+Date:   Sun Jan 1 19:46:53 2012 +0800
+
+    b00902016/HEK1337/HEK1337
+
+commit 2fb8b4ccfaf0581c12fe6d09050246ee7fe349c8
+Author: Younger <pt54088@yahoo.com.tw>
+Date:   Sun Jan 1 17:22:36 2012 +0800
+
+    b00902082/Hsieh Yuan Yang/younger50
+
+commit 5d2163400c4aa1e84924679f95113ba3d744b2e6
+Author: Yu-Nuo Juan <bensontony111@yahoo.com.tw>
+Date:   Sun Jan 1 03:55:06 2012 +0800
+
+    test
+
+commit 3d0e60bfa1f78c6efa21a82015a586fa740ec8eb
+Author: unknown <USER@USER-PC.(none)>
+Date:   Sat Dec 31 16:21:14 2011 +0800
+
+    add b00902024.py
+
+commit b3860f30e34388fec49ce8e099de2847e89322fe
+Author: willy2266111 <willy2266111@yahoo.com.tw>
+Date:   Sat Dec 31 09:52:34 2011 +0800
+
+    b00902048/william wu/willy2266111
+
+commit 72075d3bd623b2a8cbda458833ecac32125c3119
+Author: willy2266111 <willy2266111@yahoo.com.tw>
+Date:   Sat Dec 31 09:45:08 2011 +0800
+
+    b00902048/william wu /id:willy2266111
+
+commit 19bc412b431c5d5c6b7401cdcb3ad61cdbba1b48
+Merge: f964a8f 33a3ea6
+Author: Christopher Chin <aisman64@gmail.com>
+Date:   Sat Dec 31 04:22:40 2011 +0800
+
+    Merge branch 'master' of github.com:dm4/IntroCS-2011-Fall-Homework6
+
+commit f964a8f90133ba4934e1ca5b8b3c6d99b1b7097b
+Author: Christopher Chin <aisman64@gmail.com>
+Date:   Sat Dec 31 04:20:29 2011 +0800
+
+    b00902112/Christopher Chin
+
+commit 33a3ea6d44b06a14656dea97458c08fbad6163fa
+Author: Tony Wu <tonywu40665@yahoo.com.tw>
+Date:   Sat Dec 31 01:19:59 2011 +0800
+
+    B00902040/Tony Wu §dªFªL/luckytony
+
+commit 301f2b79d9bd13e57246dfe31173e95b00e9abc3
+Author: Tony Wu <tonywu40665@yahoo.com.tw>
+Date:   Sat Dec 31 01:17:55 2011 +0800
+
+    B00902040/§dªFªL/luckytony
+
+commit a1ac4f826d195780f82e9470f1fe8ecf168e3cfd
+Author: Kevin Chen <flyingmars@gmail.com>
+Date:   Fri Dec 30 23:23:17 2011 +0800
+
+    b98209035/KevinChen/flyingmars
+
+commit 8ca5402485fe5a9ecc602c8c87483fd4af611548
+Author: Kevin Chen <flyingmars@gmail.com>
+Date:   Fri Dec 30 23:10:39 2011 +0800
+
+    b98209035/KevinChen/flyingmars
+
+commit 05c302f84dc819b7b7509e098deb764af56939d1
+Author: Tony Wu <tonywu40665@yahoo.com.tw>
+Date:   Fri Dec 30 22:10:47 2011 +0800
+
+    My info: B00902040/§dªFªL/luckytony
+
+commit 9d6aa8b35dcd14f2dcc793797fc26d2b63bfbb25
+Author: Jack Chen <zxcqwe4906@hotmail.com.tw>
+Date:   Fri Dec 30 15:43:55 2011 +0800
+
+    student id:b00902042 name:Jackgithub id:zxcqwe4906
+
+commit 2dd8f04feed045b2f766c3f7369684202b911e6a
+Author: s88239 <s88239@hotmail.com>
+Date:   Thu Dec 29 20:13:56 2011 -0800
+
+    b0902100
+
+commit 6025128fff3f24efe5f4b1a5e064be7ec3aceabe
+Author: unknown <b00902014@pclab15.pclab.csie.ntu.edu.tw>
+Date:   Thu Dec 29 20:05:24 2011 +0800
+
+    I am a pig
+
+commit 22b63e10a06ed2e4320f04a0023285c9f1160870
+Author: unknown <b00902014@pclab15.pclab.csie.ntu.edu.tw>
+Date:   Thu Dec 29 20:01:29 2011 +0800
+
+    b00902014
+
+commit 284eae00c6820feac02c0d6efc5b77719cb5416a
+Author: Eric <s88239@hotmail.com>
+Date:   Wed Dec 28 03:31:52 2011 +0800
+
+    B00902098 / Eric Kuo / s88239
+
+commit 1da76b3d2baa0c95bfaa88746c50bf0a19acdf7c
+Author: kenny <kenny42064206@gmail.com>
+Date:   Tue Dec 27 16:50:09 2011 +0800
+
+    i am kenny
+
+commit 7dd99221cf0a709cec82ba9b6fb5ad0a74f2f2b5
+Author: dm4 <sunrisedm4@gmail.com>
+Date:   Tue Dec 27 16:02:12 2011 +0800
+
+    test/test/test
+
+commit e67e02c9833b24057635562ade063bad0f65ff3e
+Author: Hogan <wrangle1005@gmail.com>
+Date:   Tue Dec 27 12:48:59 2011 +0800
+
+    I'm HOGAN
+
+commit e17e92be695a8307f3214b527b371c2afdaf31b1
+Author: Hogan <wrangle1005@gmail.com>
+Date:   Tue Dec 27 12:48:30 2011 +0800
+
+    I'm HOGAN!!!
+
+commit 5c3dae7f6a2e613e53370ef7706e0f1aaa049b82
+Author: Joshua Chuang <joshzngf@gmail.com>
+Date:   Mon Dec 26 19:37:07 2011 +0800
+
+    HAHAHAHA I'm not pineapple
+
+commit 4940add9afb413ae5d289490cb5373b68396251a
+Author: Joshua Chuang <joshzngf@gmail.com>
+Date:   Mon Dec 26 19:20:37 2011 +0800
+
+    My head is not big at all(moded for en name)
+
+commit 1126e301f0c36e921c415d9730426212f8be73c6
+Author: Joshua Chuang <joshzngf@gmail.com>
+Date:   Mon Dec 26 19:16:05 2011 +0800
+
+    My head is not big at all!
+
+commit 5a90e5cb8dee0b20d2cc60c7060e9ee7ad2781f3
+Author: jui-min <coquelicot1117@gmail.com>
+Date:   Mon Dec 26 09:18:33 2011 +0800
+
+    earthworm!!!!
+
+commit a79b0c9e44b8dc9046ced66a88421f22cf16744e
+Author: 2011springICS <2011springICS@gmail.com>
+Date:   Sun Dec 25 22:35:41 2011 +0800
+
+    åŠ å€‹æª”æ¡ˆ
+
+commit b388e3cb6ec348d89a0c7a857b716a0908a28eb4
+Author: 2011springICS <2011springICS@gmail.com>
+Date:   Sun Dec 25 22:29:00 2011 +0800
+
+    student id:b97504030
+    name:åŠ‰å‡±æ˜•
+    github id:2011springICS
+
+commit 0b752c36da0372f72b3c4ef80f92f9539789f278
+Author: unknown <kingsly@kingsly-PC.(none)>
+Date:   Sun Dec 25 16:25:01 2011 +0800
+
+    b99b01078 LS2
+
+commit 07d32bd4acbb064f5dc61fa33a1f3598f002b957
+Author: oncemore <b00902052@ntu.edu.tw>
+Date:   Sun Dec 25 14:53:43 2011 +0800
+
+    Update b00902052
+
+commit 9dd989f8eb0cf6b5ae1069d88d766f3113bdcfdf
+Author: oncemore <b00902052@ntu.edu.tw>
+Date:   Sun Dec 25 14:52:56 2011 +0800
+
+    Update b00902052
+
+commit 01b65ec69f1577c4d2f19f62fc63e4132528d56f
+Merge: 874e9ca 38507f2
+Author: oncemore <b00902052@ntu.edu.tw>
+Date:   Sun Dec 25 14:49:51 2011 +0800
+
+    Merge branch 'master' of github.com:dm4/IntroCS-2011-Fall-Homework6
+
+commit 874e9ca8d1c1af7fa51adcddf38dfdf1db02e998
+Author: oncemore <b00902052@ntu.edu.tw>
+Date:   Sun Dec 25 14:40:19 2011 +0800
+
+    BasicInfo
+
+commit 38507f2ea7f73d7c773e7679e254c93cf676ee3b
+Author: weichen1027 <weichen1027@gmail.com>
+Date:   Sun Dec 25 12:28:18 2011 +0800
+
+    b00902124
+
+commit d3b408d48620a0160d9398c96b04a5537bdf038a
+Author: weichen1027 <weichen1027@gmail.com>
+Date:   Sun Dec 25 12:25:45 2011 +0800
+
+    Update READEME
+
+commit 0a8f31d7cf25ecbe599bb05773b1633d9d179eb4
+Author: weichen1027 <weichen1027@gmail.com>
+Date:   Sun Dec 25 12:24:24 2011 +0800
+
+    Update .README.swo
+
+commit dc36fc721fb37c47471bd6c1df1c8074eea7ad8c
+Merge: dc568c4 6a65ba0
+Author: weichen1027 <weichen1027@gmail.com>
+Date:   Sun Dec 25 12:18:45 2011 +0800
+
+    Merge branch 'master' of github.com:dm4/IntroCS-2011-Fall-Homework6
+
+commit dc568c4d89cbca11f2f1f93d4b1eebcbc0cb5e34
+Author: weichen1027 <weichen1027@gmail.com>
+Date:   Sun Dec 25 12:15:15 2011 +0800
+
+    Name: Wei-Chen Wang. Student ID: b00902124. Github ID: weichen1027.
+
+commit af14f798da221a724f2789df071fd3e65dbc71e9
+Author: weichen1027 <weichen1027@gmail.com>
+Date:   Sun Dec 25 12:06:50 2011 +0800
+
+    First Commit
+
+commit 44cbb9050b6e586bd9364abb92b4cbcace73bc3b
+Author: weichen1027 <weichen1027@gmail.com>
+Date:   Sun Dec 25 11:17:16 2011 +0800
+
+    .README.swp
+
+commit 9c7ae9732b71569ca110f4d4c10880495305c704
+Author: weichen1027 <weichen1027@gmail.com>
+Date:   Sun Dec 25 10:39:42 2011 +0800
+
+    NAME: Wei-Chen Wang
+    Student ID: b00902124
+    Github ID: weichen1027
+
+commit 6a65ba08b67fbe8faca1349817f827a2a05bc143
+Author: vickishen <vicki549224@gmail.com>
+Date:   Sat Dec 24 12:10:38 2011 +0800
+
+    b00902070/Vickishen/vickishen
+
+commit 9186878f606068f070e5a0feb0c82114206a8f1c
+Author: Tony Tung <tony61507@gmail.com>
+Date:   Sat Dec 24 09:48:24 2011 +0800
+
+    b00902056/TonyTung/tony056
+
+commit eaad408d54267ff2092fec59d3ad3822dc2f3bfc
+Author: pcjeff <zendo3464@yahoo.com.tw>
+Date:   Fri Dec 23 15:42:06 2011 -0800
+
+    b00902100/jefflin/pcjeff
+
+commit e497eb275713928aae82226bb6ac4066b3ff247e
+Author: chenjenping <chen.jen.ping@hotmail.com>
+Date:   Thu Dec 22 21:20:15 2011 +0800
+
+    b97705005/chen jen-ping/chenjenping
+
+commit 139be0ffd52ab5e3a8548d4756c1d100446a775f
+Author: kaochihhui <szes60323good@hotmail.com>
+Date:   Thu Dec 22 20:34:04 2011 +0800
+
+    Update IntroCS.txt
+
+commit afe852b1a09460993562b28693c60123fb45381e
+Merge: 2276c79 90eb41b
+Author: t00901109 <antarex.rave@gmail.com>
+Date:   Thu Dec 22 19:33:25 2011 +0800
+
+    Agustin Tena t00900109
+
+commit 2276c7943e8d3c78c4fa2216379e76562f0765a5
+Author: t00901109 <antarex.rave@gmail.com>
+Date:   Thu Dec 22 19:30:38 2011 +0800
+
+    Agustin Tena t00901109
+
+commit 7cce966bd553bdc0996a88e6adea86bfaea1d859
+Author: t00901109 <antarex.rave@gmail.com>
+Date:   Thu Dec 22 12:21:26 2011 +0800
+
+    Agustin Tena Garcia t00901109
+
+commit de7a4a8c095ccf85dce86cb7d864ce66b0c13ba8
+Author: t00901109 <antarex.rave@gmail.com>
+Date:   Thu Dec 22 12:04:50 2011 +0800
+
+    my hw6
+    Agustin Tena Garcia
+    t00901109 (student and github id)
+
+commit 90eb41b7ef4d2d0d56d9b3b129831ef9eb017f81
+Author: t00901109 <antarex.rave@gmail.com>
+Date:   Thu Dec 22 12:04:50 2011 +0800
+
+    my hw6
+
+commit 2de9faf15f787002dad3009b97fc632f031b5bab
+Author: dm4 <sunrisedm4@gmail.com>
+Date:   Tue Dec 20 19:33:04 2011 +0800
+
+    ä¸­æ–‡æ¸¬è©¦
+
+commit b7cc9146340ae13fea1ad805f38302ee16829228
+Author: amariel <amariel@livemail.tw>
+Date:   Tue Dec 20 18:11:08 2011 +0800
+
+    b99902126/chen_nai_hua/amariel
+
+commit 7d8eb88474a0f883e79913404a6b47b225742530
+Author: kaochihhui <szes60323good@hotmail.com>
+Date:   Tue Dec 20 17:32:23 2011 +0800
+
+    B00902120/°ª´¼´f/kaochihhui
+
+commit 00bf96870be5067db1bdcd67a5ae7facab066a1e
+Author: dm4 <sunrisedm4@gmail.com>
+Date:   Tue Dec 20 14:05:48 2011 +0800
+
+    id / name / github id
+
+commit 8ed0505538e55442a7b780a9c74b56a623821fb0
+Author: dm4 <sunrisedm4@gmail.com>
+Date:   Tue Dec 20 12:52:39 2011 +0800
+
+    b00922xxx / name / github id
+
+commit 7b2c22fec11a52a8d58ae8a883a8530a90805362
+Author: dm4 <sunrisedm4@gmail.com>
+Date:   Tue Dec 20 12:50:38 2011 +0800
+
+    first commit
